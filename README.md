@@ -14,5 +14,6 @@ Below are example screenshots of the window shopper app flow.
 
 ![MainVC-default](https://github.com/CodyJLeeApps/window-shopper/blob/master/app_screenshots/MainVC-decimal-input.png)
 ![MainVC-decimal-input](https://github.com/CodyJLeeApps/window-shopper/blob/master/app_screenshots/MainVC-decimal-input.png)
+
 ![MainVC-example-input](https://github.com/CodyJLeeApps/window-shopper/blob/master/app_screenshots/MainVC-example-input.png)
 ![MainVC-example-output](https://github.com/CodyJLeeApps/window-shopper/blob/master/app_screenshots/MainVC-example-output.png)
