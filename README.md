@@ -12,7 +12,7 @@ See "window-shopperTests/*" to validate proper calculation execution.
 
 Below are example screenshots of the window shopper app flow.
 
-![MainVC-default](https://github.com/CodyJLeeApps/window-shopper/blob/master/app_screenshots/MainVC-decimal-input.png)
+![MainVC-default](https://github.com/CodyJLeeApps/window-shopper/blob/master/app_screenshots/MainVC-default.png)
 ![MainVC-decimal-input](https://github.com/CodyJLeeApps/window-shopper/blob/master/app_screenshots/MainVC-decimal-input.png)
 
 ![MainVC-example-input](https://github.com/CodyJLeeApps/window-shopper/blob/master/app_screenshots/MainVC-example-input.png)
